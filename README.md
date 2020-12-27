@@ -2,6 +2,7 @@
 Ruby on Railsを用いたtwitterを模したwebアプリです。
 herokuでデプロイ済みです。
 https://tubuyaki-kun.herokuapp.com/
+メールアドレス:demo@demo.com パスワード:demo
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
